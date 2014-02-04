@@ -1,0 +1,24 @@
+img{
+	height: 300px;
+	width: 800px;
+	margin-left:16%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	text-align: center;
+	display: block;
+}
+body{
+	background-color: #58faf4;
+}
+p{
+	display: inline-block;
+	float: left;
+	margin-left:8%;
+	margin-right:8%;
+	
+}
+#wrapper{
+	float: left;
+	
+}
